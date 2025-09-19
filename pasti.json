@@ -112,6 +112,78 @@
       "ingredienti": "Piadina: 80g, Salmone: 100g",
       "etichette": ["pesce"],
       "calories_min": 397
+    },
+    {
+      "id": "14",
+      "nomePasto": "Fiocchi di Latte e Fette Biscottate",
+      "tipoPasto": "Colazione",
+      "ingredienti": "Fiocchi di Latte: 200g, Fette Biscottate: 4",
+      "etichette": [],
+      "calories_min": 304
+    },
+    {
+      "id": "15",
+      "nomePasto": "Yogurt Greco e Noci",
+      "tipoPasto": "Colazione",
+      "ingredienti": "Yogurt Greco 0%: 170g, Noci: 30g",
+      "etichette": [],
+      "calories_min": 306
+    },
+    {
+      "id": "16",
+      "nomePasto": "Whey e Banana",
+      "tipoPasto": "Colazione",
+      "ingredienti": "Whey: 30g, Banana: 1",
+      "etichette": [],
+      "calories_min": 205
+    },
+    {
+      "id": "17",
+      "nomePasto": "Banana",
+      "tipoPasto": "Spuntino Mattutino",
+      "ingredienti": "Banana: 1",
+      "etichette": [],
+      "calories_min": 105
+    },
+    {
+      "id": "18",
+      "nomePasto": "Noci",
+      "tipoPasto": "Spuntino Pomeridiano",
+      "ingredienti": "Noci: 20g",
+      "etichette": [],
+      "calories_min": 130
+    },
+    {
+      "id": "19",
+      "nomePasto": "Fiocchi di Latte",
+      "tipoPasto": "Spuntino Pomeridiano",
+      "ingredienti": "Fiocchi di Latte: 125g",
+      "etichette": [],
+      "calories_min": 100
+    },
+    {
+      "id": "20",
+      "nomePasto": "Tofu",
+      "tipoPasto": "Spuntino Pomeridiano",
+      "ingredienti": "Tofu: 100g",
+      "etichette": ["contiene-soia"],
+      "calories_min": 145
+    },
+    {
+        "id": "21",
+        "nomePasto": "Mandorle",
+        "tipoPasto": "Spuntino Pomeridiano",
+        "ingredienti": "Mandorle: 20g",
+        "etichette": [],
+        "calories_min": 122
+    },
+    {
+        "id": "22",
+        "nomePasto": "Yogurt Greco 0%",
+        "tipoPasto": "Spuntino Pomeridiano",
+        "ingredienti": "Yogurt Greco 0%: 170g",
+        "etichette": [],
+        "calories_min": 97
     }
   ]
 }
