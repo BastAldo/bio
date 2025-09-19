@@ -1,14 +1,14 @@
 id;nomePasto;tipoPasto;ingredienti;etichette
-1;Pranzo: Riso+Tonno;Pranzo;"Riso: 80g, Tonno: 112g";pesce
-2;Cena: Seitan+Pane;Cena;"Seitan: 150g, Pane: 40g";vegetale
-3;Pranzo: Piadina+Tofu;Pranzo;"Piadina: 80g, Tofu: 125-200g";contiene-soia,vegetale
-4;Cena: Pesce Bianco+Pane;Cena;"Pesce Bianco: 200g, Pane: 40g";pesce
-5;Pranzo: Riso+Sgombro;Pranzo;"Riso: 80g, Sgombro: 100g";pesce
-6;Cena: B. di Soia+Pane;Cena;"Soia: 70g, Pane: 40g";contiene-soia,vegetale
-7;Pranzo: Piadina+Ricotta;Pranzo;"Piadina: 80g, Ricotta: 200g";vegetale
-8;Cena: Frittata+Pane;Cena;"Uova: 3, Pane: 40g";vegetale
-9;Pranzo: Riso+Uova;Pranzo;"Riso: 80g, Uova: 3";vegetale
-10;Cena: Fagioli+Sgombro;Cena;"Fagioli: 240g, Sgombro: 100g";pesce,legume
-11;Pranzo: Piadina+P.Fagioli;Pranzo;"Piadina: 80g, Fagioli: 240g";vegetale,legume
-12;Cena: Paté di Lupini+Pane;Cena;"Lupini: 250g, Pane: 40g";vegetale,legume
-13;Pranzo: Piadina+Salmone;Pranzo;"Piadina: 80g, Salmone: 100g";pesce
+1;Riso+Tonno;Pranzo;"Riso: 80g, Tonno: 112g";pesce
+2;Seitan+Pane;Cena;"Seitan: 150g, Pane: 40g";vegetale
+3;Piadina+Tofu;Pranzo;"Piadina: 80g, Tofu: 125-200g";contiene-soia,vegetale
+4;Pesce Bianco+Pane;Cena;"Pesce Bianco: 200g, Pane: 40g";pesce
+5;Riso+Sgombro;Pranzo;"Riso: 80g, Sgombro: 100g";pesce
+6;B. di Soia+Pane;Cena;"Soia: 70g, Pane: 40g";contiene-soia,vegetale
+7;Piadina+Ricotta;Pranzo;"Piadina: 80g, Ricotta: 200g";vegetale
+8;Frittata+Pane;Cena;"Uova: 3, Pane: 40g";vegetale
+9;Riso+Uova;Pranzo;"Riso: 80g, Uova: 3";vegetale
+10;Fagioli+Sgombro;Cena;"Fagioli: 240g, Sgombro: 100g";pesce,legume
+11;Piadina+P.Fagioli;Pranzo;"Piadina: 80g, Fagioli: 240g";vegetale,legume
+12;Paté di Lupini+Pane;Cena;"Lupini: 250g, Pane: 40g";vegetale,legume
+13;Piadina+Salmone;Pranzo;"Piadina: 80g, Salmone: 100g";pesce
