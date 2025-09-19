@@ -1,0 +1,9 @@
+id nomePasto tipoPasto ingrediente etichette
+1 Pranzo:Riso+Tonno Pranzo "Riso: 80g, Tonno: 112g" pesce
+2 Pranzo:Piadina+Tofu Pranzo "Piadina: 80g, Tofu: 125-200g" contiene-soia,vegetale
+3 Pranzo:Riso+Uova Pranzo "Riso: 80g, Uova: 3" vegetale
+4 Cena:Seitan+Pane Cena "Seitan: 150g, Pane: 40g" vegetale
+5 Cena:PesceBianco+Pane Cena "Pesce Bianco: 200g, Pane: 40g" pesce
+6 Cena:B.diSoia+Pane Cena "Soia: 70g, Pane: 40g" contiene-soia,vegetale
+7 Cena:Salmone+Pane Cena "Salmone: 150g, Pane: 40g" pesce
+8 Cena:Legumi+Pane Cena "Legumi: 60g, Pane: 40g" vegetale
