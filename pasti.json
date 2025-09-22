@@ -124,9 +124,10 @@
       "id": "14",
       "nomePasto": "Fiocchi di Latte e Fette Biscottate",
       "tipoPasto": "Colazione",
-      "ingredienti": "Fiocchi di Latte: 200g, Fette Biscottate: 4",
+      "ingredienti": "Fiocchi di Latte: 175-200g, Fette Biscottate: 4",
       "etichette": ["latticino"],
-      "calories_min": 304
+      "calories_min": 293,
+      "calories_max": 304
     },
     {
       "id": "15",
@@ -164,9 +165,10 @@
       "id": "19",
       "nomePasto": "Fiocchi di Latte",
       "tipoPasto": "Spuntino Pomeridiano",
-      "ingredienti": "Fiocchi di Latte: 125g",
+      "ingredienti": "Fiocchi di Latte: 175-200g",
       "etichette": ["latticino"],
-      "calories_min": 115
+      "calories_min": 158,
+      "calories_max": 180
     },
     {
       "id": "20",
