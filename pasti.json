@@ -13,7 +13,7 @@
       "nomePasto": "Riso+Tonno all'Olio",
       "tipoPasto": "Pranzo",
       "ingredienti": "Riso: 80g, Tonno all'Olio (sgocciolato): 112g",
-      "etichette": ["pesce"],
+      "etichette": ["pesce", "riso"],
       "calories_min": 550
     },
     {
@@ -21,7 +21,7 @@
       "nomePasto": "Seitan+Pane",
       "tipoPasto": "Cena",
       "ingredienti": "Seitan: 150g, Pane: 40-80g, Olio EVO: 10g",
-      "etichette": ["vegetale"],
+      "etichette": ["vegetale", "pane"],
       "calories_min": 438,
       "calories_max": 546
     },
@@ -30,7 +30,7 @@
       "nomePasto": "Piadina+Tofu",
       "tipoPasto": "Pranzo",
       "ingredienti": "Piadina: 80g, Tofu: 125-175g, Olio EVO: 10g",
-      "etichette": ["contiene-soia", "vegetale"],
+      "etichette": ["contiene-soia", "vegetale", "piadina"],
       "calories_min": 462,
       "calories_max": 599
     },
@@ -39,7 +39,7 @@
       "nomePasto": "Pesce Bianco+Pane",
       "tipoPasto": "Cena",
       "ingredienti": "Pesce Bianco: 200g, Pane: 40-80g, Olio EVO: 10g",
-      "etichette": ["pesce"],
+      "etichette": ["pesce", "pane"],
       "calories_min": 438,
       "calories_max": 546
     },
@@ -48,7 +48,7 @@
       "nomePasto": "Riso+Sgombro all'Olio",
       "tipoPasto": "Pranzo",
       "ingredienti": "Riso: 80g, Sgombro all'Olio: 125g",
-      "etichette": ["pesce"],
+      "etichette": ["pesce", "riso"],
       "calories_min": 600
     },
     {
@@ -56,27 +56,69 @@
       "nomePasto": "B. di Soia+Pane",
       "tipoPasto": "Cena",
       "ingredienti": "B. di Soia (secca): 70g, Pane: 40-80g, Olio EVO: 10g",
-      "etichette": ["contiene-soia", "vegetale"],
+      "etichette": ["contiene-soia", "vegetale", "pane"],
       "calories_min": 438,
       "calories_max": 546
+    },
+    {
+      "id": "7",
+      "nomePasto": "Piadina+Ricotta",
+      "tipoPasto": "Pranzo",
+      "ingredienti": "Piadina: 80g, Ricotta: 150-200g, Olio EVO: 10g",
+      "etichette": ["latticino", "piadina"],
+      "calories_min": 455,
+      "calories_max": 610
     },
     {
       "id": "8",
       "nomePasto": "Frittata+Pane",
       "tipoPasto": "Cena",
       "ingredienti": "Uova: 3, Pane: 40-90g, Olio EVO: 10g",
-      "etichette": ["uova"],
+      "etichette": ["uova", "pane"],
       "calories_min": 406,
       "calories_max": 558
     },
+     {
+      "id": "9",
+      "nomePasto": "Riso+Uova",
+      "tipoPasto": "Pranzo",
+      "ingredienti": "Riso: 80g, Uova: 3, Olio EVO: 10g",
+      "etichette": ["uova", "riso"],
+      "calories_min": 595
+    },
     {
-      "id": "24",
-      "nomePasto": "Petto di Pollo+Pane",
+      "id": "10",
+      "nomePasto": "Fagioli+Sgombro",
       "tipoPasto": "Cena",
-      "ingredienti": "Petto di Pollo: 150g, Pane: 40-80g, Olio EVO: 10g",
-      "etichette": ["carne"],
-      "calories_min": 445,
-      "calories_max": 553
+      "ingredienti": "Fagioli: 240g, Sgombro: 100g",
+      "etichette": ["pesce", "legume"],
+      "calories_min": 500
+    },
+    {
+      "id": "11",
+      "nomePasto": "Piadina+P.Fagioli",
+      "tipoPasto": "Pranzo",
+      "ingredienti": "Piadina: 80g, Fagioli: 240g, Olio EVO: 10g",
+      "etichette": ["vegetale", "legume", "piadina"],
+      "calories_min": 560
+    },
+    {
+      "id": "12",
+      "nomePasto": "Paté di Lupini+Pane",
+      "tipoPasto": "Cena",
+      "ingredienti": "Lupini: 250g, Pane: 40-80g, Olio EVO: 10g",
+      "etichette": ["vegetale", "legume", "pane"],
+      "calories_min": 528,
+      "calories_max": 636
+    },
+    {
+      "id": "13",
+      "nomePasto": "Piadina+Salmone",
+      "tipoPasto": "Pranzo",
+      "ingredienti": "Piadina: 80g, Salmone: 100-150g, Olio EVO: 10g",
+      "etichette": ["pesce", "piadina"],
+      "calories_min": 450,
+      "calories_max": 590
     },
     {
       "id": "14",
@@ -93,6 +135,14 @@
       "ingredienti": "Yogurt Greco 0%: 170g, Noci: 30g",
       "etichette": ["latticino", "frutta-secca"],
       "calories_min": 306
+    },
+    {
+      "id": "16",
+      "nomePasto": "Whey e Banana",
+      "tipoPasto": "Colazione",
+      "ingredienti": "Whey: 30g, Banana: 1",
+      "etichette": ["proteine-polvere", "frutta"],
+      "calories_min": 205
     },
     {
       "id": "17",
@@ -119,6 +169,14 @@
       "calories_min": 115
     },
     {
+      "id": "20",
+      "nomePasto": "Tofu",
+      "tipoPasto": "Spuntino Pomeridiano",
+      "ingredienti": "Tofu: 100g",
+      "etichette": ["contiene-soia", "vegetale"],
+      "calories_min": 145
+    },
+    {
       "id": "21",
       "nomePasto": "Mandorle",
       "tipoPasto": "Spuntino Pomeridiano",
@@ -141,6 +199,15 @@
       "ingredienti": "Parmigiano: 20g",
       "etichette": ["latticino"],
       "calories_min": 80
+    },
+    {
+      "id": "24",
+      "nomePasto": "Petto di Pollo+Pane",
+      "tipoPasto": "Cena",
+      "ingredienti": "Petto di Pollo: 150g, Pane: 40-80g, Olio EVO: 10g",
+      "etichette": ["carne", "pane"],
+      "calories_min": 445,
+      "calories_max": 553
     }
   ]
 }
