@@ -210,6 +210,14 @@
       "etichette": ["carne", "pane"],
       "calories_min": 445,
       "calories_max": 553
+    },
+    {
+      "id": "25",
+      "nomePasto": "Banana",
+      "tipoPasto": "Spuntino Pomeridiano",
+      "ingredienti": "Banana: 1",
+      "etichette": ["frutta"],
+      "calories_min": 105
     }
   ]
 }
