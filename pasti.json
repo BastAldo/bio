@@ -218,7 +218,7 @@
       "tipoPasto": "Spuntino Pomeridiano",
       "ingredienti": "Banana: 1",
       "etichette": ["frutta"],
-      "calories_min": 105,
+      "calories_min": 105
     }, 
     {
       "id": "26",
