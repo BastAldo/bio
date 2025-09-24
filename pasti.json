@@ -218,7 +218,17 @@
       "tipoPasto": "Spuntino Pomeridiano",
       "ingredienti": "Banana: 1",
       "etichette": ["frutta"],
-      "calories_min": 105
+      "calories_min": 105,
+    }, 
+    {
+      "id": "25",
+      "nomePasto": "Pollo Vegetale+Pane",
+      "tipoPasto": "Cena",
+      "ingredienti": "Porzione da ricetta 'Pollo Vegetale' v4.2, Olio EVO (in cottura): 10g, Pane (opzionale): 40g",
+      "etichette": ["vegetale", "pane", "legume"],
+      "calories_min": 479,
+      "calories_max": 587,
+      "recipeId": "00001"
     }
   ]
 }
