@@ -1,4 +1,5 @@
 {
+  "recipeBaseUrl":"https://raw.githubusercontent.com/BastAldo/bio/refs/heads/main/ricette/",
   "rules": [
     {
       "tag": "contiene-soia",
