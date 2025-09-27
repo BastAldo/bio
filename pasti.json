@@ -235,6 +235,15 @@
       "calories_min":479,
       "calories_max":587,
       "recipeId":"00001"
+    },
+    {
+      "id": "27",
+      "nomePasto": "Frittata+Pane",
+      "tipoPasto": "Pranzo",
+      "ingredienti": "Uova: 3, Pane: 40-90g, Olio EVO: 10g",
+      "etichette": ["uova", "pane"],
+      "calories_min": 406,
+      "calories_max": 558
     }
   ]
 }
