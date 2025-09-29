@@ -1,0 +1,29 @@
+{
+  "ingredienti": [
+    { "id": "riso", "nome": "Riso", "kcal_per_100g": 130 },
+    { "id": "tonno_olio_sgocc", "nome": "Tonno all'Olio (sgocciolato)", "kcal_per_100g": 192 },
+    { "id": "seitan", "nome": "Seitan", "kcal_per_100g": 121 },
+    { "id": "pane", "nome": "Pane", "kcal_per_100g": 270 },
+    { "id": "olio_evo", "nome": "Olio Extra Vergine di Oliva", "kcal_per_100g": 900 },
+    { "id": "piadina", "nome": "Piadina", "kcal_per_100g": 350 },
+    { "id": "tofu", "nome": "Tofu", "kcal_per_100g": 126 },
+    { "id": "pesce_bianco", "nome": "Pesce Bianco", "kcal_per_100g": 82 },
+    { "id": "sgombro_olio", "nome": "Sgombro all'Olio", "kcal_per_100g": 260 },
+    { "id": "b_soia_secca", "nome": "Bocconcini di Soia (secca)", "kcal_per_100g": 330 },
+    { "id": "ricotta", "nome": "Ricotta", "kcal_per_100g": 138 },
+    { "id": "uova", "nome": "Uova", "kcal_per_100g": 143 },
+    { "id": "fagioli", "nome": "Fagioli", "kcal_per_100g": 102 },
+    { "id": "lupini", "nome": "Lupini", "kcal_per_100g": 120 },
+    { "id": "salmone", "nome": "Salmone", "kcal_per_100g": 208 },
+    { "id": "fiocchi_latte", "nome": "Fiocchi di Latte", "kcal_per_100g": 90 },
+    { "id": "fette_biscottate", "nome": "Fette Biscottate", "kcal_per_100g": 410 },
+    { "id": "yogurt_greco_0", "nome": "Yogurt Greco 0%", "kcal_per_100g": 57 },
+    { "id": "noci", "nome": "Noci", "kcal_per_100g": 654 },
+    { "id": "whey", "nome": "Proteine Whey Isolate", "kcal_per_100g": 370 },
+    { "id": "banana", "nome": "Banana", "kcal_per_100g": 89 },
+    { "id": "mandorle", "nome": "Mandorle", "kcal_per_100g": 609 },
+    { "id": "parmigiano", "nome": "Parmigiano", "kcal_per_100g": 431 },
+    { "id": "petto_pollo", "nome": "Petto di Pollo", "kcal_per_100g": 165 },
+    { "id": "pollo_vegetale_v4_2", "nome": "Porzione da ricetta 'Pollo Vegetale' v4.2", "kcal_per_100g": null }
+  ]
+}
