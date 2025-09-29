@@ -5,6 +5,7 @@
 Questo protocollo è costruito su dati antropometrici specifici, che ne costituiscono le fondamenta.
 
 * **Data di Inizio del Percorso:** 02 Maggio 2025
+* **Anni:** 41
 * **Peso Iniziale:** 102.8 kg
 * **Altezza:** 1.68 m
 * **Obiettivo Primario:** Riduzione della massa grassa, preservazione della massa muscolare e consolidamento di un modello alimentare sostenibile.
