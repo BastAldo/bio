@@ -1,0 +1,63 @@
+      {
+        "esercizi": [
+          {
+            "id": "ex_piegamenti",
+            "name": "Piegamenti",
+            "description": "Un esercizio fondamentale per la parte superiore del corpo, coinvolge petto, spalle e tricipiti.",
+            "type": "reps",
+            "defaultSets": 3,
+            "defaultReps": 8,
+            "defaultRest": 60,
+            "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
+          },
+          {
+            "id": "ex_dip_panca",
+            "name": "Dip su Panca",
+            "description": "Esercizio focalizzato sui tricipiti, utilizzando una panca o una sedia come supporto.",
+            "type": "reps",
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultRest": 60,
+            "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
+          },
+          {
+            "id": "ex_superman",
+            "name": "Superman",
+            "description": "Rinforza la parte bassa della schiena e i muscoli posteriori. Solleva braccia e gambe contemporaneamente.",
+            "type": "reps",
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultRest": 45,
+            "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+          },
+          {
+            "id": "ex_piegamenti_pike",
+            "name": "Piegamenti Pike",
+            "description": "Una variante dei piegamenti che pone maggiore enfasi sulle spalle, mantenendo il bacino alto.",
+            "type": "reps",
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultRest": 75,
+            "defaultTempo": { "up": 2, "hold": 0, "down": 2 }
+          },
+          {
+            "id": "ex_plank",
+            "name": "Plank",
+            "description": "Esercizio isometrico per il core. Mantieni una linea retta dalla testa ai talloni.",
+            "type": "time",
+            "defaultSets": 3,
+            "defaultDuration": 45,
+            "defaultRest": 45
+          },
+          {
+            "id": "ex_crunch_inverso",
+            "name": "Crunch Inverso",
+            "description": "Focalizzato sulla parte bassa degli addominali. Solleva le ginocchia verso il petto.",
+            "type": "reps",
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultRest": 45,
+            "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+          }
+        ]
+      }
