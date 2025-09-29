@@ -22,7 +22,7 @@
     { "id": "whey", "nome": "Proteine Whey Isolate", "kcal_per_100g": 370 },
     { "id": "banana", "nome": "Banana", "kcal_per_100g": 89, "g_per_pezzo": 120 },
     { "id": "mandorle", "nome": "Mandorle", "kcal_per_100g": 609 },
-    { "id": "parmigiano", "nome": "Parmigiano", "kcal_per_100g": 431 },
+    { "id": "parmigiano", "nome": "Parmigiano", "kcal_per_100g": 398 },
     { "id": "petto_pollo", "nome": "Petto di Pollo", "kcal_per_100g": 165 },
     { "id": "prodotto_ricetta_pollo_vegetale_v4_2", "nome": "Prodotto da ricetta 'Pollo Vegetale v4.2'", "kcal_per_100g": null, "fonte": "ricetta" }
   ]
