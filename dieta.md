@@ -1,60 +1,60 @@
-# Manifesto del Protocollo Nutrizionale v11.0 (Edizione Pubblica)
+# Piano Alimentare: Guida e Principi
 
-## 1. Dati Fondamentali e Contesto
+## 1. I Tuoi Dati di Partenza
 
-Questo protocollo è costruito su dati antropometrici specifici, che ne costituiscono le fondamenta.
+Questo piano è stato costruito su misura per te, partendo da questi dati.
 
+* **Età Attuale:** 41 anni
 * **Data di Inizio del Percorso:** 02 Maggio 2025
-* **Anni:** 41
 * **Peso Iniziale:** 102.8 kg
 * **Altezza:** 1.68 m
-* **Obiettivo Primario:** Riduzione della massa grassa, preservazione della massa muscolare e consolidamento di un modello alimentare sostenibile.
+* **Obiettivo Principale:** Perdere peso in modo sano, proteggendo la massa muscolare e costruendo abitudini alimentari che durino nel tempo.
 
 ---
 
-## 2. Analisi Energetica e Strategia Calorica
+## 2. Il Tuo Fabbisogno Calorico
 
-La strategia si basa su un'analisi numerica del fabbisogno energetico, aggiornata per riflettere i dati biometrici più recenti.
+Per perdere peso in modo efficace, è importante capire di quante calorie ha bisogno il tuo corpo.
 
-* **Metabolismo Basale (BMR):** La spesa energetica a riposo, basata sulla rilevazione del 15 Settembre 2025, è di **1682 kcal** al giorno. Questo valore rappresenta l'attuale energia minima richiesta per le funzioni vitali.
+* **Metabolismo Basale:** A riposo, il tuo corpo brucia circa **1682 kcal** al giorno per le sue funzioni vitali (respirare, pensare, etc.). Questo è il tuo punto di partenza.
 
-* **Fabbisogno Energetico Totale Attuale (TDEE):** Considerando un livello di attività fisica incostante, il fabbisogno energetico totale viene stimato in circa **2150 - 2250 kcal** al giorno.
+* **Calorie Bruciate Ogni Giorno:** Considerando il tuo metabolismo e uno stile di vita con attività fisica non costante, si stima che il tuo corpo bruci in totale circa **2150 - 2250 kcal** al giorno.
 
-* **Obiettivo Calorico e Deficit Programmato:** Per continuare la progressione in modo controllato, l'obiettivo di assunzione calorica è fissato a **1800 - 1900 kcal** al giorno.
-    * **Logica del Deficit:** Questa assunzione genera un deficit calorico quotidiano di circa **300 - 400 kcal**. Questo deficit, più moderato rispetto alla fase iniziale, è progettato per una perdita di peso costante e sostenibile nella fase attuale del percorso.
-
----
-
-## 3. Filosofia Nutrizionale e Principi Chiave
-
-Il successo del protocollo si fonda su due pilastri: la massima semplicità operativa e una selezione mirata dei nutrienti.
-
-### **Principio Cardine: Massima Semplicità**
-
-L'aderenza a lungo termine è l'obiettivo strategico. Ogni pasto proposto è stato ingegnerizzato per richiedere un **assemblaggio minimo o cotture brevissime/inesistenti**. Questa scelta fondamentale si adatta alla preferenza di non dedicare tempo eccessivo alla preparazione, eliminando il principale ostacolo che porta all'abbandono dei piani alimentari.
-
-### **Selezione Strategica dei Nutrienti**
-
-Ogni alimento è stato scelto per la sua funzione specifica nel raggiungimento dell'obiettivo.
-
-* **Proteine ad Alto Valore Biologico (Pollo, Pesce, Uova, Latticini Magri):** Forniscono il profilo amminoacidico completo, essenziale per la **preservazione del tessuto muscolare** durante un deficit calorico.
-
-* **Proteine Vegetali e Legumi (Tofu, Seitan, Fagioli, Lupini):** Garantiscono la **varietà della dieta** e un alto apporto di fibre, cruciali per la salute intestinale e per aumentare il **senso di sazietà**.
-
-* **Carboidrati Complessi (Riso, Pane, Piadina):** Forniscono **energia a lento rilascio**, garantendo stabilità energetica durante la giornata e prevenendo i picchi glicemici.
-
-* **Grassi Essenziali (Olio EVO, Frutta Secca, Pesce Grasso):** Sono vitali per la **funzione ormonale** e l'assorbimento delle vitamine. Il loro apporto è attentamente calibrato per massimizzare i benefici mantenendo il controllo calorico.
+* **Obiettivo Calorico per Perdere Peso:** Per perdere peso in modo graduale e sostenibile, il tuo obiettivo è consumare tra le **1800 e le 1900 kcal** al giorno.
+    * **Come Funziona:** Mangiando un po' meno calorie di quelle che bruci (circa 300-400 in meno al giorno), il tuo corpo inizierà a usare le riserve di grasso come energia. È un metodo efficace e non troppo drastico, ideale per questa fase del percorso.
 
 ---
 
-## 4. Logica Operativa del Protocollo
+## 3. La Filosofia Dietetica: Semplicità e Scelte Intelligenti
 
-Il sistema è governato da regole chiare che garantiscono flessibilità, controllo e sostenibilità.
+Questa dieta si basa su due idee molto semplici: deve essere facile da seguire e basata su cibi che fanno bene.
 
-* **Interscambiabilità dei Pasti:** Tutte le opzioni di "Pranzo" e "Cena" sono state calibrate per essere nutrizionalmente equivalenti (nel range **550-600 kcal**) e possono essere scambiate liberamente.
+### **Il Principio più Importante: La Semplicità**
 
-* **Standardizzazione dei Grassi:** La regola dei **10g di Olio EVO** per pasto (salvo eccezioni documentate, come pesce conservato in olio) semplifica la gestione delle calorie e assicura coerenza.
+Per seguire una dieta a lungo, questa non deve essere uno stress. Per questo motivo, tutti i pasti proposti sono **estremamente semplici e veloci da preparare**. La maggior parte richiede solo di assemblare gli ingredienti o cotture di pochi minuti, eliminando la scusa del "non ho tempo di cucinare".
 
-* **Controllo delle Fonti Proteiche:** La regola di consumare un solo pasto a base di soia al giorno assicura una rotazione ottimale delle fonti proteiche assunte.
+### **Perché Scegliamo Questi Alimenti**
 
-* **Pasto Libero Programmato:** Il pasto libero settimanale è uno strumento strategico per la **gestione psicologica** della dieta. La sua inclusione previene il senso di privazione e aumenta la sostenibilità del protocollo.
+Ogni cibo in questo piano ha uno scopo preciso.
+
+* **Proteine Nobili (Pollo, Pesce, Uova, Latticini Magri):** Servono a **proteggere e nutrire i tuoi muscoli** mentre perdi peso, assicurando che il corpo bruci il grasso e non la massa magra.
+
+* **Proteine Vegetali e Legumi (Tofu, Seitan, Fagioli):** Aggiungono **varietà alla dieta** e sono ricchi di fibre, che aiutano l'intestino e ti fanno **sentire sazio più a lungo**.
+
+* **Carboidrati "Lenti" (Riso, Pane, Piadina):** Ti danno **energia stabile e costante** durante la giornata, evitando i cali di zucchero che ti fanno venire fame all'improvviso.
+
+* **Grassi Buoni (Olio d'Oliva, Noci, Mandorle):** Sono fondamentali per il **corretto funzionamento degli ormoni** e per assorbire alcune vitamine importanti. Ne usiamo la giusta quantità per avere i benefici senza esagerare con le calorie.
+
+---
+
+## 4. Le Regole del Piano Alimentare
+
+Per farti gestire al meglio, il piano segue poche e semplici regole.
+
+* **Flessibilità dei Pasti:** Tutti i pranzi e le cene sono equivalenti dal punto di vista calorico (circa **550-600 kcal**). Questo significa che puoi **scegliere liberamente** quale fare ogni giorno, a seconda di cosa ti va, senza paura di sbagliare.
+
+* **Come Gestire l'Olio:** La regola è semplice: **10g di Olio d'Oliva** (circa un cucchiaio) per ogni pranzo e cena. Fanno eccezione solo i cibi già conservati in olio, come lo sgombro.
+
+* **Regola sulla Soia:** Per garantire una buona varietà di proteine, è consigliabile mangiare cibi a base di soia (come il tofu) solo una volta al giorno.
+
+* **Il Pasto Libero:** Una volta a settimana, puoi scegliere un pranzo **O** una cena e mangiare quello che preferisci. Non è uno sgarro, ma uno strumento previsto dal piano per **rendere la dieta più piacevole e sostenibile** nel tempo.
