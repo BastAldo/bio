@@ -575,6 +575,34 @@
       ]
     },
     {
+      "id": "30",
+      "nomePasto": "Frittata di Albumi e Lupini+Pane",
+      "tipoPasto": "Cena",
+      "etichette": [
+        "uova",
+        "legume",
+        "pane"
+      ],
+      "ingredienti": [
+        {
+          "id": "albume_uovo",
+          "quantita_g": 250
+        },
+        {
+          "id": "olio_evo",
+          "quantita_g": 10
+        },
+        {
+          "id": "pane",
+          "quantita_g": 40
+        },
+        {
+          "id": "lupini",
+          "quantita_g": 190
+        }
+      ]
+    },
+    {
       "id": "29",
       "nomePasto": "Riso+Ricotta e Parmigiano",
       "tipoPasto": "Pranzo",
