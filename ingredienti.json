@@ -138,6 +138,11 @@
       "nome": "Prodotto da ricetta 'Pollo Vegetale v4.2'",
       "kcal_per_100g": null,
       "fonte": "ricetta"
+    },
+    {
+      "id": "albume_uovo",
+      "nome": "Albume d'Uovo",
+      "kcal_per_100g": 52
     }
   ]
 }
