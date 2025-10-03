@@ -38,7 +38,8 @@
             "defaultSets": 3,
             "defaultReps": 6,
             "defaultRest": 75,
-            "defaultTempo": { "up": 2, "hold": 0, "down": 2 }
+            "defaultTempo": { "up": 2, "hold": 0, "down": 2 },
+            "execution_mode": "manual_reps"
           },
           {
             "id": "ex_plank",
