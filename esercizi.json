@@ -47,7 +47,8 @@
             "type": "time",
             "defaultSets": 3,
             "defaultDuration": 45,
-            "defaultRest": 45
+            "defaultRest": 45,
+            "execution_mode": "static_hold"
           },
           {
             "id": "ex_crunch_inverso",
