@@ -165,6 +165,26 @@
       ]
     },
     {
+      "id": "30",
+      "nomePasto": "Piadina+Ricotta",
+      "tipoPasto": "Cena",
+      "etichette": [
+        "latticino",
+        "piadina"
+      ],
+      "ingredienti": [
+        {
+          "id": "piadina",
+          "quantita_g": 80
+        },
+        {
+          "id": "ricotta",
+          "quantita_g_min": 150,
+          "quantita_g_max": 200
+        }
+      ]
+    },
+    {
       "id": "8",
       "nomePasto": "Frittata+Pane",
       "tipoPasto": "Cena",
