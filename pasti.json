@@ -469,7 +469,10 @@
     {
       "id": "23",
       "nomePasto": "Parmigiano",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano",
+        "Spuntino Mattutino"
+      ],
       "etichette": [
         "latticino"
       ],
