@@ -11,7 +11,9 @@
     {
       "id": "1",
       "nomePasto": "Riso+Tonno all'Olio",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "pesce",
         "riso"
@@ -30,7 +32,9 @@
     {
       "id": "2",
       "nomePasto": "Seitan+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "vegetale",
         "pane"
@@ -54,7 +58,9 @@
     {
       "id": "3",
       "nomePasto": "Piadina+Tofu",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "contiene-soia",
         "vegetale",
@@ -75,7 +81,9 @@
     {
       "id": "4",
       "nomePasto": "Pesce Bianco+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "pesce",
         "pane"
@@ -99,7 +107,9 @@
     {
       "id": "5",
       "nomePasto": "Riso+Sgombro all'Olio",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "pesce",
         "riso"
@@ -118,7 +128,9 @@
     {
       "id": "6",
       "nomePasto": "B. di Soia+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "contiene-soia",
         "vegetale",
@@ -170,7 +182,9 @@
     {
       "id": "8",
       "nomePasto": "Frittata+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "uova",
         "pane"
@@ -194,7 +208,9 @@
     {
       "id": "9",
       "nomePasto": "Riso+Uova",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "uova",
         "riso"
@@ -217,7 +233,9 @@
     {
       "id": "10",
       "nomePasto": "Fagioli+Sgombro",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "pesce",
         "legume"
@@ -236,7 +254,9 @@
     {
       "id": "11",
       "nomePasto": "Piadina+P.Fagioli",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "vegetale",
         "legume",
@@ -260,7 +280,9 @@
     {
       "id": "12",
       "nomePasto": "Paté di Lupini+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "vegetale",
         "legume",
@@ -285,7 +307,9 @@
     {
       "id": "13",
       "nomePasto": "Piadina+Salmone",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "pesce",
         "piadina"
@@ -309,7 +333,9 @@
     {
       "id": "14",
       "nomePasto": "Fiocchi di Latte e Fette Biscottate",
-      "tipoPasto": "Colazione",
+      "tipoPasto": [
+        "Colazione"
+      ],
       "etichette": [
         "latticino"
       ],
@@ -328,7 +354,9 @@
     {
       "id": "15",
       "nomePasto": "Yogurt Greco e Noci",
-      "tipoPasto": "Colazione",
+      "tipoPasto": [
+        "Colazione"
+      ],
       "etichette": [
         "latticino",
         "frutta-secca"
@@ -347,7 +375,9 @@
     {
       "id": "16",
       "nomePasto": "Whey e Banana",
-      "tipoPasto": "Colazione",
+      "tipoPasto": [
+        "Colazione"
+      ],
       "etichette": [
         "proteine-polvere",
         "frutta"
@@ -366,7 +396,10 @@
     {
       "id": "17",
       "nomePasto": "Banana",
-      "tipoPasto": "Spuntino Mattutino",
+      "tipoPasto": [
+        "Spuntino Mattutino",
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "frutta"
       ],
@@ -380,7 +413,9 @@
     {
       "id": "18",
       "nomePasto": "Noci",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "frutta-secca"
       ],
@@ -394,7 +429,9 @@
     {
       "id": "19",
       "nomePasto": "Fiocchi di Latte",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "latticino"
       ],
@@ -409,7 +446,9 @@
     {
       "id": "20",
       "nomePasto": "Tofu",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "contiene-soia",
         "vegetale"
@@ -424,7 +463,9 @@
     {
       "id": "21",
       "nomePasto": "Mandorle",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "frutta-secca"
       ],
@@ -438,7 +479,9 @@
     {
       "id": "22",
       "nomePasto": "Yogurt Greco 0%",
-      "tipoPasto": "Spuntino Pomeridiano",
+      "tipoPasto": [
+        "Spuntino Pomeridiano"
+      ],
       "etichette": [
         "latticino"
       ],
@@ -469,7 +512,9 @@
     {
       "id": "24",
       "nomePasto": "Petto di Pollo+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "carne",
         "pane"
@@ -492,22 +537,10 @@
     },
     {
       "id": "25",
-      "nomePasto": "Banana",
-      "tipoPasto": "Spuntino Pomeridiano",
-      "etichette": [
-        "frutta"
-      ],
-      "ingredienti": [
-        {
-          "id": "banana",
-          "quantita_pezzi": 1
-        }
-      ]
-    },
-    {
-      "id": "26",
       "nomePasto": "Pollo Vegetale+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "vegetale",
         "pane",
@@ -531,9 +564,11 @@
       ]
     },
     {
-      "id": "27",
+      "id": "26",
       "nomePasto": "Riso+Petto di Pollo",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "carne",
         "riso"
@@ -554,9 +589,11 @@
       ]
     },
     {
-      "id": "28",
+      "id": "27",
       "nomePasto": "Piadina+Frittata",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "uova",
         "piadina"
@@ -577,9 +614,11 @@
       ]
     },
     {
-      "id": "30",
+      "id": "28",
       "nomePasto": "Frittata di Albumi e Lupini+Pane",
-      "tipoPasto": "Cena",
+      "tipoPasto": [
+        "Cena"
+      ],
       "etichette": [
         "uova",
         "legume",
@@ -607,7 +646,9 @@
     {
       "id": "29",
       "nomePasto": "Riso+Ricotta e Parmigiano",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo"
+      ],
       "etichette": [
         "latticino",
         "riso"
