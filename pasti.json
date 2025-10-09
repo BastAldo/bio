@@ -693,6 +693,29 @@
           "quantita_g": 10
         }
       ]
-    }
+    },
+  ],
+  "meals": [
+    {
+      "id": "31",
+      "nomePasto": "Riso nero+Tonno all'Olio",
+      "tipoPasto": [
+        "Pranzo"
+      ],
+      "etichette": [
+        "pesce",
+        "riso"
+      ],
+      "ingredienti": [
+        {
+          "id": "riso_nero",
+          "quantita_g": 80
+        },
+        {
+          "id": "tonno_olio_sgocc",
+          "quantita_g": 112
+        }
+      ]
+    },
   ]
 }
