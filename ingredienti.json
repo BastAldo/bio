@@ -143,6 +143,12 @@
       "id": "albume_uovo",
       "nome": "Albume d'Uovo",
       "kcal_per_100g": 52
-    }
+    },
+    {
+      "id": "riso_nero",
+      "nome": "Riso nero",
+      "kcal_per_100g": 360,
+      "fonte": "utente"
+    },
   ]
 }
