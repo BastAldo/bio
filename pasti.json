@@ -342,12 +342,8 @@
       "ingredienti": [
         {
           "id": "fiocchi_latte",
-          "quantita_g_min": 175,
+          "quantita_g_min": 150,
           "quantita_g_max": 200
-        },
-        {
-          "id": "fette_biscottate",
-          "quantita_pezzi": 4
         }
       ]
     },
