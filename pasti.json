@@ -143,7 +143,10 @@
     {
       "id": "7",
       "nomePasto": "Piadina+Ricotta",
-      "tipoPasto": "Pranzo",
+      "tipoPasto": [
+        "Pranzo",
+        "Cena"
+      ],
       "etichette": [
         "latticino",
         "piadina"
@@ -161,26 +164,6 @@
         {
           "id": "olio_evo",
           "quantita_g": 0
-        }
-      ]
-    },
-    {
-      "id": "30",
-      "nomePasto": "Piadina+Ricotta",
-      "tipoPasto": "Cena",
-      "etichette": [
-        "latticino",
-        "piadina"
-      ],
-      "ingredienti": [
-        {
-          "id": "piadina",
-          "quantita_g": 80
-        },
-        {
-          "id": "ricotta",
-          "quantita_g_min": 150,
-          "quantita_g_max": 200
         }
       ]
     },
