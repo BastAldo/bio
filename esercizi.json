@@ -8,6 +8,7 @@
       "defaultSets": 4,
       "defaultReps": 10,
       "defaultRest": 90,
+      "defaultWeight": 80,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -18,6 +19,7 @@
       "defaultSets": 4,
       "defaultReps": 10,
       "defaultRest": 90,
+      "defaultWeight": 80,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -28,6 +30,7 @@
       "defaultSets": 3,
       "defaultReps": 12,
       "defaultRest": 60,
+      "defaultWeight": 35,
       "defaultTempo": { "up": 1, "hold": 1, "down": 3 }
     },
     {
@@ -38,6 +41,7 @@
       "defaultSets": 3,
       "defaultReps": 10,
       "defaultRest": 75,
+      "defaultWeight": 35,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -48,6 +52,7 @@
       "defaultSets": 3,
       "defaultReps": 10,
       "defaultRest": 75,
+      "defaultWeight": 35,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -58,6 +63,7 @@
       "defaultSets": 3,
       "defaultReps": 10,
       "defaultRest": 75,
+      "defaultWeight": 35,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -68,6 +74,7 @@
       "defaultSets": 3,
       "defaultReps": 12,
       "defaultRest": 60,
+      "defaultWeight": 40,
       "defaultTempo": { "up": 1, "hold": 1, "down": 2 }
     },
     {
@@ -78,6 +85,7 @@
       "defaultSets": 3,
       "defaultReps": 12,
       "defaultRest": 60,
+      "defaultWeight": 40,
       "defaultTempo": { "up": 1, "hold": 1, "down": 2 }
     },
     {
@@ -88,6 +96,7 @@
       "defaultSets": 3,
       "defaultReps": 12,
       "defaultRest": 60,
+      "defaultWeight": 20,
       "defaultTempo": { "up": 2, "hold": 0, "down": 3 }
     },
     {
@@ -98,6 +107,7 @@
       "defaultSets": 3,
       "defaultReps": 15,
       "defaultRest": 45,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 1, "hold": 2, "down": 2 }
     },
     {
@@ -107,7 +117,8 @@
       "type": "time",
       "defaultSets": 3,
       "defaultDuration": 60,
-      "defaultRest": 45
+      "defaultRest": 45,
+      "defaultWeight": 0
     },
     {
       "id": "ex_piegamenti",
@@ -117,6 +128,7 @@
       "defaultSets": 3,
       "defaultReps": 10,
       "defaultRest": 60,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
     },
     {
@@ -127,6 +139,7 @@
       "defaultSets": 3,
       "defaultReps": 12,
       "defaultRest": 60,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
     },
     {
@@ -137,6 +150,7 @@
       "defaultSets": 2,
       "defaultReps": 15,
       "defaultRest": 30,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
     },
     {
@@ -147,6 +161,7 @@
       "defaultSets": 3,
       "defaultReps": 8,
       "defaultRest": 75,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 2, "hold": 0, "down": 2 }
     },
     {
@@ -157,6 +172,7 @@
       "defaultSets": 3,
       "defaultReps": 15,
       "defaultRest": 45,
+      "defaultWeight": 0,
       "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
     }
   ]
