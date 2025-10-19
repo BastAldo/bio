@@ -108,7 +108,8 @@
       "defaultReps": 15,
       "defaultRest": 45,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 1, "hold": 2, "down": 2 }
+      "defaultTempo": { "up": 1, "hold": 2, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_plank",
@@ -118,7 +119,8 @@
       "defaultSets": 3,
       "defaultDuration": 60,
       "defaultRest": 45,
-      "defaultWeight": 0
+      "defaultWeight": 0,
+      "execution_mode": "static_hold"
     },
     {
       "id": "ex_piegamenti",
@@ -129,7 +131,8 @@
       "defaultReps": 10,
       "defaultRest": 60,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
+      "defaultTempo": { "up": 1, "hold": 0, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_dip_panca",
@@ -140,7 +143,8 @@
       "defaultReps": 12,
       "defaultRest": 60,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 1, "hold": 0, "down": 2 }
+      "defaultTempo": { "up": 1, "hold": 0, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_superman",
@@ -151,7 +155,8 @@
       "defaultReps": 15,
       "defaultRest": 30,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+      "defaultTempo": { "up": 2, "hold": 1, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_piegamenti_pike",
@@ -162,7 +167,8 @@
       "defaultReps": 8,
       "defaultRest": 75,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 2, "hold": 0, "down": 2 }
+      "defaultTempo": { "up": 2, "hold": 0, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_crunch_inverso",
@@ -173,7 +179,8 @@
       "defaultReps": 15,
       "defaultRest": 45,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+      "defaultTempo": { "up": 2, "hold": 1, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_piegamenti_inclinati",
@@ -184,7 +191,8 @@
       "defaultReps": 15,
       "defaultRest": 60,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 1, "hold": 0, "down": 3 }
+      "defaultTempo": { "up": 1, "hold": 0, "down": 3 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_rematore_invertito",
@@ -195,7 +203,8 @@
       "defaultReps": 10,
       "defaultRest": 75,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+      "defaultTempo": { "up": 2, "hold": 1, "down": 2 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_squat_corpo_libero",
@@ -206,7 +215,8 @@
       "defaultReps": 20,
       "defaultRest": 45,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 1, "hold": 1, "down": 3 }
+      "defaultTempo": { "up": 1, "hold": 1, "down": 3 },
+      "execution_mode": "manual_reps"
     },
     {
       "id": "ex_clamshell",
@@ -217,7 +227,8 @@
       "defaultReps": 15,
       "defaultRest": 30,
       "defaultWeight": 0,
-      "defaultTempo": { "up": 2, "hold": 1, "down": 2 }
+      "defaultTempo": { "up": 2, "hold": 1, "down": 2 },
+      "execution_mode": "manual_reps"
     }
   ]
 }
