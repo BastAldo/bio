@@ -154,6 +154,11 @@
          "id": "piselli_scatola",
          "nome": "Piselli in Scatola",
          "kcal_per_100g": 68
+      },
+      {
+         "id": "ricotta_light",
+         "nome": "Ricotta Light",
+         "kcal_per_100g": 103
       }
    ]
 }
