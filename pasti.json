@@ -697,6 +697,34 @@
                "quantita_g":10
             }
          ]
+      },
+      {
+        "id": "31",
+        "nomePasto": "Riso Integrale con Sgombro e Ricotta",
+        "tipoPasto": [
+          "Pranzo",
+          "Cena"
+           ],
+           "etichette": [
+             "pesce",
+             "latticino",
+             "riso"
+           ],
+           "ingredienti": [
+             {
+               "id": "sgombro_olio_sgocc",
+               "quantita_g": 108
+             },
+             {
+               "id": "ricotta_light",
+               "quantita_g": 100
+             },
+             {
+               "id": "riso_integrale_crudo",
+               "quantita_g": 70
+             }
+           ]
       }
+
    ]
 }
