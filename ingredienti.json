@@ -164,6 +164,13 @@
          "id": "riso_integrale",
          "nome": "Riso Integrale",
          "kcal_per_100g": 350
+      },
+      {
+         "id": "grana_padano_ins",
+         "nome": "Grana Padano (IN'S)",
+         "kcal_per_100g": 398,
+         "g_per_pezzo": 30,
+         "fonte": "utente"
       }
    ]
 }
