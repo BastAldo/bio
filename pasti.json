@@ -759,7 +759,10 @@
       {
         "id": "33",
         "nomePasto": "Grana Padano",
-        "tipoPasto": "Spuntino Pomeridiano",
+        "tipoPasto":[
+            "Spuntino Pomeridiano",
+            "Spuntino Mattutino"
+        ],
         "etichette": [
           "latticino"
         ],
