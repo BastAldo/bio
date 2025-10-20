@@ -724,6 +724,37 @@
                "quantita_g": 70
              }
            ]
+      },
+      {
+        "id": "32",
+        "nomePasto": "Frittata di Albumi con Piselli e Pane",
+        "tipoPasto": [
+          "Pranzo",
+          "Cena"
+        ],
+        "etichette": [
+          "uova",
+          "legume",
+          "pane"
+        ],
+        "ingredienti": [
+          {
+            "id": "albume_uovo",
+            "quantita_g": 250
+          },
+          {
+            "id": "piselli_scatola",
+            "quantita_g": 240
+          },
+          {
+            "id": "pane",
+            "quantita_g": 60
+          },
+          {
+            "id": "olio_evo",
+            "quantita_g": 10
+          }
+        ]
       }
 
    ]
