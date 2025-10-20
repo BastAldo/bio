@@ -159,6 +159,11 @@
          "id": "ricotta_light",
          "nome": "Ricotta Light",
          "kcal_per_100g": 103
+      },
+      {
+         "id": "riso_integrale",
+         "nome": "Riso Integrale",
+         "kcal_per_100g": 350
       }
    ]
 }
