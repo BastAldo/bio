@@ -756,21 +756,19 @@
           }
         ]
       },
-         "id":"33",
-         "nomePasto":"Grana Padano",
-         "tipoPasto":[
-            "Spuntino Pomeridiano",
-            "Spuntino Mattutino"
-         ],
-         "etichette":[
-            "latticino"
-         ],
-         "ingredienti":[
-            {
-               "id":"grana_padano_ins",
-               "quantita_pezzi":1
-            }
-         ]
+      {
+        "id": "30",
+        "nomePasto": "Grana Padano",
+        "tipoPasto": "Spuntino Pomeridiano",
+        "etichette": [
+          "latticino"
+        ],
+        "ingredienti": [
+          {
+            "id": "grana_padano_ins",
+            "quantita_pezzi": 1
+          }
+        ]
       }
 
    ]
