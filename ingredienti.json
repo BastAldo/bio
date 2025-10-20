@@ -149,6 +149,11 @@
          "nome":"Riso nero",
          "kcal_per_100g":360,
          "fonte":"utente"
+      },
+      {
+         "id": "piselli_scatola",
+         "nome": "Piselli in Scatola",
+         "kcal_per_100g": 68
       }
    ]
 }
