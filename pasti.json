@@ -772,6 +772,60 @@
             "quantita_pezzi": 1
           }
         ]
+      },
+      {
+        "id": "34",
+        "nomePasto": "Riso con Sardine e Fiocchi di Latte",
+        "tipoPasto": [
+          "Pranzo",
+          "Cena"
+        ],
+        "etichette": [
+          "pesce",
+          "latticino",
+          "riso"
+        ],
+        "ingredienti": [
+          {
+            "id": "riso",
+            "quantita_g": 80
+          },
+          {
+            "id": "sardine_olio_sgocc",
+            "quantita_g": 85
+          },
+          {
+            "id": "fiocchi_latte",
+            "quantita_g": 90
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "nomePasto": "Riso con Sardine e Ricotta",
+        "tipoPasto": [
+          "Pranzo",
+          "Cena"
+        ],
+        "etichette": [
+          "pesce",
+          "latticino",
+          "riso"
+        ],
+        "ingredienti": [
+          {
+            "id": "riso",
+            "quantita_g": 80
+          },
+          {
+            "id": "sardine_olio_sgocc",
+            "quantita_g": 85
+          },
+          {
+            "id": "ricotta",
+            "quantita_g": 60
+          }
+        ]
       }
 
    ]
