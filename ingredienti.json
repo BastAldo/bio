@@ -171,6 +171,11 @@
          "kcal_per_100g": 398,
          "g_per_pezzo": 30,
          "fonte": "utente"
+      },
+      {
+        "id": "sardine_olio_sgocc",
+        "nome": "Sardine all'Olio (sgocciolate)",
+        "kcal_per_100g": 186
       }
    ]
 }
