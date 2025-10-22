@@ -796,7 +796,8 @@
           },
           {
             "id": "fiocchi_latte",
-            "quantita_g": 90
+            "quantita_g_min":150,
+            "quantita_g_max":200
           }
         ]
       },
@@ -823,7 +824,7 @@
           },
           {
             "id": "ricotta",
-            "quantita_g": 60
+            "quantita_g": 100
           }
         ]
       }
