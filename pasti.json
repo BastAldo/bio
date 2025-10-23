@@ -853,6 +853,28 @@
       "quantita_g": 10
     }
   ]
+},
+{
+  "id": "37",
+  "nomePasto": "Pane e Salmone",
+  "tipoPasto": [
+    "Pranzo",
+    "Cena"
+  ],
+  "etichette": [
+    "pesce",
+    "pane"
+  ],
+  "ingredienti": [
+    {
+      "id": "salmone",
+      "quantita_g": 200
+    },
+    {
+      "id": "pane",
+      "quantita_g": 50
+    }
+  ]
 }
 
    ]
